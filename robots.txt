@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wonderpromocodes.com/sitemap.xml
