@@ -9,7 +9,7 @@ works from any subpath/domain.
 ## Referral code
 
 The promo code wired into every page (hero, CTA sections, checkout links,
-copy-to-clipboard widget) is **ANDY626**, replacing the original ALMA465. It
+copy-to-clipboard widget) is **JIN555**, replacing the original ALMA465. It
 appears in visible copy and in the `auto_applied_promo_code` query param on
 every link to wonder.com.
 
